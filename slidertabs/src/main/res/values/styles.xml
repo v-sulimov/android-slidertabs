@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  Parent for all default styles of this view.  -->
+    <style name="SliderTabs">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="st_animationDuration">300</item>
+        <item name="st_leftTabText">@string/st_default_left_tab_text</item>
+        <item name="st_rightTabText">@string/st_default_right_tab_text</item>
+    </style>
+
+    <!--  Default light style.  -->
+    <style name="SliderTabs.DefaultLight">
+        <item name="st_backgroundColor">#E0E0E0</item>
+        <item name="st_backgroundColorPressed">#AEAEAE</item>
+        <item name="st_sliderColor">#FFFFFF</item>
+        <item name="st_tabTextColor">#000000</item>
+    </style>
+
+    <!--  Default dark style.  -->
+    <style name="SliderTabs.DefaultDark">
+        <item name="st_backgroundColor">#424242</item>
+        <item name="st_backgroundColorPressed">#6D6D6D</item>
+        <item name="st_sliderColor">#1B1B1B</item>
+        <item name="st_tabTextColor">#FFFFFF</item>
+    </style>
+
+</resources>
