@@ -2,6 +2,14 @@
 
 A SliderTabs is a two-state tab widget which allows a user to choose between two options.
 
+## Appearance
+
+SliderTabs support [Android Dynamic Colors](https://developer.android.com/develop/ui/views/theming/dynamic-colors) and
+change the color themselves, depending on the user's settings.
+
+<img src="assets/slidertabs_dynamic_light.png" width="540">
+<img src="assets/slidertabs_dynamic_dark.png" width="540">
+
 ## Installation
 
 To add SliderTabs to your project, include the following repository in your `settings.gradle.kts`:
@@ -36,7 +44,7 @@ Add the SliderTabs view to your layout XML file:
     android:layout_width="match_parent"
     android:layout_height="40dp" 
     style="@style/SliderTabs" 
-    app:st_leftTabText="Tab 1" 
+    app:st_leftTabText="Tab 1"
     app:st_rightTabText="Tab 2" />
 ```
 
