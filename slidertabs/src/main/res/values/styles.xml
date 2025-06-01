@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SliderTabs">
+        <item name="st_animationDuration">400</item>
+        <item name="st_leftTabText">@string/st_default_left_tab_text</item>
+        <item name="st_rightTabText">@string/st_default_right_tab_text</item>
+        <item name="st_backgroundColor">?attr/colorSurfaceContainer</item>
+        <item name="st_backgroundColorPressed">?attr/colorSurfaceContainerLow</item>
+        <item name="st_sliderColor">?attr/colorPrimaryContainer</item>
+        <item name="st_onTabTextColor">?attr/colorOnPrimaryContainer</item>
+        <item name="st_onSurfaceTextColor">?attr/colorOnSurface</item>
+    </style>
+</resources>
