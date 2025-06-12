@@ -6,11 +6,11 @@ plugins {
 
 android {
     namespace = "com.vsulimov.slidertabs"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         minSdk = 24
-        lint.targetSdk = 35
+        lint.targetSdk = 36
     }
 
     buildTypes {
@@ -38,6 +38,7 @@ android {
 }
 
 dependencies {
+    implementation(libs.material)
 }
 
 publishing {
