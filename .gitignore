@@ -1,0 +1,14 @@
+# Android Studio ignored files.
+.idea
+*.iml
+captures
+local.properties
+
+# Gradle and compiler ignored files.
+.gradle
+build
+.externalNativeBuild
+.cxx
+
+# MacOs ignored files.
+.DS_Store

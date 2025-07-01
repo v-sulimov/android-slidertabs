@@ -1,0 +1,12 @@
+[versions]
+agp = "8.11.0"
+kotlin = "2.2.0"
+material = "1.12.0"
+
+[libraries]
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+
+[plugins]
+android-library = { id = "com.android.library", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+maven-publish = { id = "maven-publish" }

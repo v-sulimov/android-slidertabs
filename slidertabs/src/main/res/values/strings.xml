@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="st_default_left_tab_text">Left Tab</string>
+    <string name="st_default_right_tab_text">Right Tab</string>
+</resources>

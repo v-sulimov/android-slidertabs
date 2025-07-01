@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SliderTabs">
+        <attr name="st_backgroundColor" format="color" />
+        <attr name="st_backgroundColorPressed" format="color" />
+        <attr name="st_sliderColor" format="color" />
+        <attr name="st_onTabTextColor" format="color" />
+        <attr name="st_onSurfaceTextColor" format="color" />
+        <attr name="st_leftTabText" format="reference" />
+        <attr name="st_rightTabText" format="reference" />
+        <attr name="st_animationDuration" format="integer" />
+    </declare-styleable>
+</resources>
