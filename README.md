@@ -49,7 +49,7 @@ It supports [Android Dynamic Colors](https://developer.android.com/develop/ui/vi
 
  ```kotlin
  dependencies {
-     implementation("com.vsulimov:slidertabs:1.0.0")
+     implementation("com.vsulimov:slidertabs:1.0.1")
  }
  ```
 
