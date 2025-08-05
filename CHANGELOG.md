@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2] - 05/08/2025
+
+### Changed
+- Updated Android Gradle Plugin to version 8.12.0
+- Updated Gradle to version 9.0.0
+
 ## [1.0.1] - 15/07/2025
 
 ### Changed
