@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] - 08/11/2025
+
+### Changed
+- Updated Kotlin to version 2.2.21
+- Updated Gradle to version 9.2.0
+
 ## [1.0.3] - 19/09/2025
 
 ### Changed

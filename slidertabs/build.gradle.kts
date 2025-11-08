@@ -47,7 +47,7 @@ publishing {
             create<MavenPublication>("release") {
                 groupId = "com.vsulimov"
                 artifactId = "slidertabs"
-                version = "1.0.3"
+                version = "1.0.4"
 
                 from(components["release"])
 
